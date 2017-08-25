@@ -1,0 +1,41 @@
+<?php
+return [
+    'adminEmail' => 'admin@example.com',
+    'ignoreurl'=>[
+        'user/login',
+        'user/captha',
+        'user/logintodo',
+//        'home/index',
+//        'home/top',
+//        'home/main',
+//        'home/menu',
+        'user/loginout',
+          'user/not'
+//        'permission/add',
+//        'permission/create',
+//        'permission/list',
+//         'permission/edit',
+//        'permission/updete',
+//        'role/add',
+//        'role/create',
+//        'role/list',
+//        'role/updeta',
+//        'role/delete',
+//        'role/edit',
+//        'user/add',
+//        'user/list',
+//        'user/create',
+//        'user/loginout',
+//        'user/auth',
+//        'user/edit',
+//        'user/delete',
+//        'user/update',
+//        'goods/list',
+//        'goods/edit',
+//        'base/deleteimg',
+//        'brand/add',
+//        'brand/update',
+//        'base/upload',
+//        'goods/update'
+    ]
+];
