@@ -21,7 +21,7 @@ use yii\swiftmailer\Mailer;
 class UserController extends SmsController
 {
     public function actionList(){
-        
+           echo "5555";
     }
     /**
      * @return array
