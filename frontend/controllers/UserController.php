@@ -22,6 +22,8 @@ class UserController extends SmsController
 {
     public function actionList(){
 
+           echo "555555555555555";
+
     }
     /**
      * @return array
