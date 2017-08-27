@@ -20,6 +20,9 @@ use yii\swiftmailer\Mailer;
 
 class UserController extends SmsController
 {
+    public function actionList(){
+        
+    }
     /**
      * @return array
      * 验证码
